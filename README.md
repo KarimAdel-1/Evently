@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD" alt="stripe" />
   </div>
 
-  <h3 align="center">A Full Stack Next 14 Events App</h3>
+  <p align="center">is a cutting-edge platform designed for seamless event management and enhanced user experience. Built with a focus on security, scalability, and user-centric functionality, EventVerse offers an all-in-one solution for managing events, users, and transactions efficiently.</p>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
